@@ -8,7 +8,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,git,html,css,figma, react,nextjs,bootstrap" />
+  <img src="https://skillicons.dev/icons?i=intelij,vscode,git,html,css,figma, react,nextjs,bootstrap" />
   <img src="https://skillicons.dev/icons?i=java,spring,javascript,nodejs,typescript,groovy,express,c,python,mongodb,mysql,postgresql" /><br>
 </div>
 
