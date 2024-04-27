@@ -1,6 +1,5 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f400a1&height=120&section=header"/>
 <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8c4a63&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f400a1&height=120&section=header"/>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=8c4a63&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name´s+Rafaela+Lima.;I'm+35+years+old;I+from+Brasil,+PE;I+study+Software+Engineer;Dev+Full+-+Stack;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
