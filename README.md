@@ -32,6 +32,9 @@
 <div align=center>
   <h3><b>📍 Profile Visitor Count</b></h3>
 </div>
+<p align="center" >   
+  <img src="https://profile-counter.glitch.me/rafacristi17/count.svg" />  
+</p>
 <hr/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f400a1&height=120&section=footer"/>
 
