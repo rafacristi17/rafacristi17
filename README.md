@@ -23,9 +23,15 @@
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacristi17&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
+<h3>Onde me encontrar </h3>
+
+[![Linkedin](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafaelaengsoft/)](https://www.linkedin.com/in/rafaelaengsoft/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rafaelacristine@live.com)](mailto:rafaelacristine@live.com)
 
 <br/><br/>
-
+<div align=center>
+  <h3><b>📍 Profile Visitor Count</b></h3>
+</div>
 <hr/>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f400a1&height=120&section=footer"/>
 
